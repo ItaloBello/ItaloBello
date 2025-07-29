@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de **des
 
 ### 💻 Linguagens & Frameworks
 - **Front-End:** HTML, CSS, JavaScript, React.js  
-- **Back-End:** Java, Node.js  
+- **Back-End:** Java, Node.js, Go  
 - **Outras linguagens:** Python
 
 ### 🛢️ Bancos de Dados
